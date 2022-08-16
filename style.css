@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+}
+#addcontent {
+  color: red;
+  margin-left: 500px;
+}
+#whitepig,
+#grandma,
+#tuntun,
+#Bheem,
+#Bheem1 {
+  display: none;
+  width: 500px;
+  height: 400px;
+  margin-top: 100px;
+}
